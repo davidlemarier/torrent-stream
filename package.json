@@ -9,7 +9,7 @@
   "dependencies": {
     "bitfield": "^0.1.0",
     "bittorrent-dht": "^2.1.1",
-    "bittorrent-tracker": "^2.6.0",
+    "bittorrent-tracker": "git+https://github.com/davidlemarier/bittorrent-tracker.git",
     "bncode": "^0.5.2",
     "compact2string": "^1.2.0",
     "end-of-stream": "^0.1.4",
